@@ -1,4 +1,6 @@
-// FACTORY FUNCTION
+/* 
+meloria de documentação, sempre utilize assim para documentar ou explicar o seu código ;D
+FACTORY FUNCTION */
 
 function criarNote1(marcaNote1, anoNote1, memoriaNote1, sisOpNote1){
   return{
